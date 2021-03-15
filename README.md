@@ -1,3 +1,6 @@
+# Link to the deployed version of website
+Open  [https://githubfinder19876.netlify.app/](https://githubfinder19876.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
